@@ -4,7 +4,9 @@
   "version": "1.0",
   "description": "AI-powered phishing detection to secure your browsing.",
   "icons": {
-    "16": "icons/cybershield16.webp"
+    "16": "icons/cybershield16.png",
+    "48": "icons/cybershield48.png",
+    "128": "icons/cybershield128.png"
   },
   "permissions": [
     "activeTab",
@@ -21,7 +23,9 @@
   "action": {
     "default_popup": "plugin_ui.html",
     "default_icon": {
-      "16": "icons/cybershield16.webp"
+      "16": "icons/cybershield16.png",
+      "48": "icons/cybershield48.png",
+      "128": "icons/cybershield128.png"
     }
   },
   "content_scripts": [
