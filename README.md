@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/K2tvILlPkiiX3gD7cl/giphy.gif" alt="GIF example">
 
-<p><strong>-: AI-enabled Phishing link Detection and Alert System :-</strong></p>
+
+<p><strong>-: AI-powered phishing detection to secure your browsing.:-</strong></p>
 <h1>Table of content </h1>
 <ul>
 <li>Introduction.</li>
